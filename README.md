@@ -1,1 +1,1 @@
-# backand-react-boilerplate
+Back& + React + Redux boilerplate
